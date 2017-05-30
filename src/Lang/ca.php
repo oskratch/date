@@ -13,7 +13,7 @@ return [
     */
 
     'ago'       => 'Fa :time',
-    'from_now'  => 'Dins de :time',
+    'from_now'  => 'D\'aquí :time',
     'after'     => ':time després',
     'before'    => ':time abans',
     'year'      => '1 any|:count anys',
